@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar{
+    background: rgb(53, 30, 0);
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    height:120px;
+}
+
+nav .store a{
+    padding: 20px;
+    padding-left: 20px;
+    margin: 0;
+    top: 40%;
+    left: 33%;
+    color: rgb(252, 250, 248);
+    font-weight: 300;
+    font-size: 80px;
+    display:inline-block;
+}
+
+ul{
+    position:relative;
+    width:450px;
+    margin: 100px auto 0;
+    padding: 10px;
+    box-sizing:border-box;
+    background: rgb(91, 62, 24);
+    
+}
+
+ul li{
+    display:flex;
+    background:rgb(139, 97, 42) ;
+    padding:10px 20px;
+    color: white;
+    margin:5px 0;
+    transition: .5s;
+
+}
+
+ul li:hover{
+    color:rgb(181, 126, 71);
+}
+
+
+.PC h2{
+    color: rgb(252, 250, 248);
+    background: rgb(53, 30, 0);
+    font-size:700;
+    font-weight:80px;
+    padding-left: 200px;
+    text-decoration: underline;
+    padding-top:20px;
+
+}
+
+.PC p{
+    background: rgb(53, 30, 0);
+    color:rgb(252, 250, 248);
+    padding-left: 200px;
+}
+
+.PC{
+    padding-top: 50px ; 
+}

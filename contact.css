@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.navbar{
+    background: rgb(53, 30, 0);
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    height:120px;
+}
+
+nav .contact a{
+    padding: 20px;
+    padding-left: 20px;
+    margin: 0;
+    top: 40%;
+    left: 33%;
+    color: rgb(252, 250, 248);
+    font-weight: 300;
+    font-size: 80px;
+    display:inline-block;
+}
+
+h3{
+    color: rgb(53, 30, 0);
+    top: 120px;
+    position: absolute;
+    text-align: center;
+    padding: 200px;
+    font-weight: 800;
+    font-size: 80px;
+    padding-left: 290px;
+    text-decoration: underline;
+    border: 4px solid;
+    border-top: 190px;
+
+    
+
+}
+
+img{
+    width: 90%;
+    margin-top: 0;
+    padding-bottom: 40px;
+    height: 550px;
+    padding-top: 50px;
+    padding-left: 70px;
+    opacity: 0.74;
+}
+
+h4{
+    font-weight:600;
+    font-size: 30px;
+    color: rgb(53, 30, 0);
+    position: absolute;
+    top:410px;
+    left: 300px;
+    
+    
+}
+
+body p{
+    text-align: center;
+    color:rgb(53, 30, 0);
+    font-weight: 400;
+    font-size: 30px;
+    
+}
+
+.container{
+    width:80%;
+    max-width:600px;
+    margin:50px auto;
+    padding:20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(68, 45, 1, 0.914);
+    background-color: white;
+
+}
+
+.container h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(53, 30, 0);
+
+}
+
+form input, form textarea{
+    display:block;
+    width:100%;
+    margin-bottom:10px ;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    color:rgb(53, 30, 0);
+}
+
+form button{
+    display:block;
+    width:100%;
+    padding:10px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgb(53, 30, 0);
+    color:white;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+form button:hover{
+    background-color:  rgb(247, 184, 101);
+}
+
+.store h2{
+    color: rgb(252, 250, 248);
+    background: rgb(53, 30, 0) ;
+    font-size:700;
+    font-weight:80px;
+    padding-left: 200px;
+    text-decoration: underline;
+    padding-top:20px;
+
+}
+
+.store p{
+    background: rgb(53, 30, 0);
+    color:rgb(252, 250, 248);
+    padding-right: 800px;
+    font-size: 16px;
+    font-weight: 100;
+     
+}
+
